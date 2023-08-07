@@ -31,7 +31,8 @@ Save training time and resources
 [Kth Nearest Neighbor](https://www.ibm.com/topics/knn#:~:text=Next%20steps-,K%2DNearest%20Neighbors%20Algorithm,of%20an%20individual%20data%20point.)
 
 
-[Euclidean vs Cosine Similarity](https://www.baeldung.com/cs/euclidean-distance-vs-cosine-similarity) or [stackoverflow](https://datascience.stackexchange.com/questions/27726/when-to-use-cosine-simlarity-over-euclidean-similarity)
+[Euclidean vs Cosine Similarity](https://www.baeldung.com/cs/euclidean-distance-vs-cosine-similarity) or [answers on stackoverflow](https://datascience.stackexchange.com/questions/27726/when-to-use-cosine-simlarity-over-euclidean-similarity)
 
 ## Videos
+
 [TensorFLow Official](https://www.youtube.com/watch?v=fNxaJsNG3-s&list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S)
