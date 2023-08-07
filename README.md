@@ -21,3 +21,6 @@ Clean, processed datasets
 Save training time and resources
 
 [GloVe](https://nlp.stanford.edu/projects/glove/)
+
+## Useful Articles 
+[ANN, CNN, RNN](https://levity.ai/blog/neural-networks-cnn-ann-rnn)
