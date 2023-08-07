@@ -35,4 +35,4 @@ Save training time and resources
 
 ## Videos
 
-[TensorFLow Official](https://www.youtube.com/watch?v=fNxaJsNG3-s&list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S) - [My Follow Along] (https://github.com/Weile-Zheng/tensorFlow-NLP-MiniCourse)
+[TensorFLow Official](https://www.youtube.com/watch?v=fNxaJsNG3-s&list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S) - [My Follow Along](https://github.com/Weile-Zheng/tensorFlow-NLP-MiniCourse)
