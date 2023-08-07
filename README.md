@@ -31,6 +31,7 @@ Save training time and resources
 [Kth Nearest Neighbor](https://www.ibm.com/topics/knn#:~:text=Next%20steps-,K%2DNearest%20Neighbors%20Algorithm,of%20an%20individual%20data%20point.)
 
 [Activation Functions](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6)
+
 [Euclidean vs Cosine Similarity](https://www.baeldung.com/cs/euclidean-distance-vs-cosine-similarity) or [answers on stackoverflow](https://datascience.stackexchange.com/questions/27726/when-to-use-cosine-simlarity-over-euclidean-similarity)
 
 ## Videos
