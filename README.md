@@ -32,3 +32,6 @@ Save training time and resources
 
 
 [Euclidean vs Cosine Similarity](https://www.baeldung.com/cs/euclidean-distance-vs-cosine-similarity) or [stackoverflow](https://datascience.stackexchange.com/questions/27726/when-to-use-cosine-simlarity-over-euclidean-similarity)
+
+## Videos
+[TensorFLow Official](https://www.youtube.com/watch?v=fNxaJsNG3-s&list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S)
