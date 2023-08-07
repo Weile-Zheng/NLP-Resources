@@ -1,5 +1,7 @@
 # Natural Language Processing Resources
 
+I use this repository to save important libraries, models, articles, datasets, learning resources, and other. 
+
 ## Python Libraries:
 
 Modeling, Training, graphing, vector manipulation
