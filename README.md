@@ -34,6 +34,9 @@ Save training time and resources
 
 [Euclidean vs Cosine Similarity](https://www.baeldung.com/cs/euclidean-distance-vs-cosine-similarity) or [answers on stackoverflow](https://datascience.stackexchange.com/questions/27726/when-to-use-cosine-simlarity-over-euclidean-similarity)
 
+## Activation Functions
+[Softmax](https://www.pinecone.io/learn/softmax-activation/)
+
 ## Videos
 
 [TensorFLow Official](https://www.youtube.com/watch?v=fNxaJsNG3-s&list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S) - [My Follow Along](https://github.com/Weile-Zheng/tensorFlow-NLP-MiniCourse)
