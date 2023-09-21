@@ -27,8 +27,9 @@ Save training time and resources
 ## Useful Articles 
 [ANN, CNN, RNN](https://levity.ai/blog/neural-networks-cnn-ann-rnn)
 
-
 [Kth Nearest Neighbor](https://www.ibm.com/topics/knn#:~:text=Next%20steps-,K%2DNearest%20Neighbors%20Algorithm,of%20an%20individual%20data%20point.)
+
+[Algorithms](https://www.coursera.org/articles/machine-learning-algorithms)
 
 [Activation Functions](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6)
 
