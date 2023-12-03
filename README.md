@@ -44,4 +44,5 @@ Save training time and resources
 
 ## Full Book/Course
 [Dive to Deep Learning](https://d2l.com)
+[MIT Deep Learning](https://github.com/janishar/mit-deep-learning-book-pdf)
 
